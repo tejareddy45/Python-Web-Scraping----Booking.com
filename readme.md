@@ -47,10 +47,3 @@ hotel_name, locality, price, rating, score, review, link
 "The Grand Hotel", "Mumbai, India", "₹5000", "4.5", "9.2", "1200 reviews", "https://booking.com/example"
 ...
 ```
-
-## ⚠️ Disclaimer
-This project is intended for **educational purposes** only. Scraping websites without permission may violate terms of service. Use responsibly and check Booking.com's scraping policies before deploying.
-
----
-💡 **Happy Scraping!** 🚀
-
